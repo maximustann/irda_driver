@@ -1,0 +1,1 @@
+cmd_/work/last_2012-04-16/whole_new_final_pwm/pwm_device/pwm_device.ko := arm-linux-ld -EL -r  -T /work/2011-12-08/linux-2.6.35.3/scripts/module-common.lds --build-id -o /work/last_2012-04-16/whole_new_final_pwm/pwm_device/pwm_device.ko /work/last_2012-04-16/whole_new_final_pwm/pwm_device/pwm_device.o /work/last_2012-04-16/whole_new_final_pwm/pwm_device/pwm_device.mod.o
